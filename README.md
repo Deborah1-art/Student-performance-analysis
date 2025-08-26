@@ -21,6 +21,7 @@ Here are some visuals from the dashboard:
 Gender vs. subject performance 
 
  <img width="546" height="367" alt="Gender vs  Performance" src="https://github.com/user-attachments/assets/584fcc9f-ea1e-483b-9841-74de3342c8e4" />
+ 
 
  
 Overall average of subjects
