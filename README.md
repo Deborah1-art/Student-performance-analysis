@@ -21,10 +21,15 @@ Here are some visuals from the dashboard:
 Gender vs. subject performance 
 
  <img width="546" height="367" alt="Gender vs  Performance" src="https://github.com/user-attachments/assets/584fcc9f-ea1e-483b-9841-74de3342c8e4" />
- 
+
 
  
 Overall average of subjects
 
  <img width="560" height="330" alt="Overall average of subjects" src="https://github.com/user-attachments/assets/f7d6c9dc-ac0b-4386-b305-6fa387d26ebb" />
+
+
+Test preparation vs. Scores
+ <img width="481" height="328" alt="test prep vs  average score" src="https://github.com/user-attachments/assets/f9745612-9237-4fa3-8afc-db4723de565a" />
+
 
