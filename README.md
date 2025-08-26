@@ -13,3 +13,9 @@ The dataset contains 1000 students with details like gender, race/ethnicity, par
 2. **Race/Ethnicity vs Performance** – Column chart of average scores by group.  
 3. **Parental Education vs Performance** – Bar chart of impact of parents’ education on students performance.  
 4. **Lunch Type & Test Prep Effect** – Bar chart showing their influenceof test preaparation and lunch on student scores. 
+
+---
+## Data Visualization
+Here are some visuals from the dashboard:
+Gender vs. subject performance  <img width="546" height="367" alt="Gender vs  Performance" src="https://github.com/user-attachments/assets/584fcc9f-ea1e-483b-9841-74de3342c8e4" />
+
