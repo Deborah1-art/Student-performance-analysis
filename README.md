@@ -18,9 +18,12 @@ The dataset contains 1000 students with details like gender, race/ethnicity, par
 ## Data Visualization
 Here are some visuals from the dashboard:
 
-Gender vs. subject performance  <img width="546" height="367" alt="Gender vs  Performance" src="https://github.com/user-attachments/assets/584fcc9f-ea1e-483b-9841-74de3342c8e4" />
+Gender vs. subject performance 
 
+ <img width="546" height="367" alt="Gender vs  Performance" src="https://github.com/user-attachments/assets/584fcc9f-ea1e-483b-9841-74de3342c8e4" />
 
+ 
+Overall average of subjects
 
-Overall average of subjects <img width="560" height="330" alt="Overall average of subjects" src="https://github.com/user-attachments/assets/f7d6c9dc-ac0b-4386-b305-6fa387d26ebb" />
+ <img width="560" height="330" alt="Overall average of subjects" src="https://github.com/user-attachments/assets/f7d6c9dc-ac0b-4386-b305-6fa387d26ebb" />
 
