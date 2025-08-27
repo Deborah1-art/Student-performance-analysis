@@ -33,6 +33,8 @@ Overall average of subjects
 
 
 Test preparation vs. Scores
+
+
  <img width="481" height="328" alt="test prep vs  average score" src="https://github.com/user-attachments/assets/f9745612-9237-4fa3-8afc-db4723de565a" />
 
 
