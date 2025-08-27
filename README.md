@@ -40,8 +40,6 @@ Overall average of subjects
 
  
 
-#Average score by race/ethnicity
-
   <img width="461" height="325" alt="average scores by race and ethnicity" src="https://github.com/user-attachments/assets/0ed8bd20-2816-4dd7-a04e-d4c2d6837ace" />
 
 
@@ -49,7 +47,8 @@ Overall average of subjects
 
 
 
-  Average scores of students by parental level of education  
-
-
  <img width="497" height="344" alt="average score by parental level of education" src="https://github.com/user-attachments/assets/1f609679-357a-493f-b337-60c9fb3d8e3f" />
+
+
+
+<img width="419" height="310" alt="Average score of students by lunch" src="https://github.com/user-attachments/assets/013d5ea1-7aff-4752-8e62-9cab04380afa" />
