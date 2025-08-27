@@ -38,3 +38,8 @@ Test preparation vs. Scores
  <img width="481" height="328" alt="test prep vs  average score" src="https://github.com/user-attachments/assets/f9745612-9237-4fa3-8afc-db4723de565a" />
 
 
+ 
+
+Average score by race/ethnicity
+
+  <img width="461" height="325" alt="average scores by race and ethnicity" src="https://github.com/user-attachments/assets/0ed8bd20-2816-4dd7-a04e-d4c2d6837ace" />
