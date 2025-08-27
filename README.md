@@ -56,6 +56,10 @@ Overall average of subjects
 
 
 ----
-##Insights
-1. based on overall average in each subjects, Females did better in reading and writing while Males did sightly better in Maths by 1.5% over females
-2.  
+ ## Insights
+1. Based on overall average in each subjects, Females did better in reading (12%) and writing (15%) than Males, while Males scored 8% higher in Maths than females.
+2. Reading was the strongest subject with the best performance from students, with the highest average at 69.2, about 5% higher than maths and 2% higher than reading.
+3. From the analysis, it is unarguable that Students whose parents attained a Master’s degree performed up to 15% better than those whose parents stopped at high school. Similarly, children of parents with Associate and Bachelor’s degrees outperformed those whose parents stopped at college. This trend suggests that higher parental education often translates into greater emphasis on education at home, which positivly impacts students performance. 
+4. Students from Group A did poorly in the exams but it gets progressively better across groups. Group E ranks highest with 72.8%.
+5. Students who completed the Test preparation course did 14% better than students who didn't.
+6. Nutrition played a significant role in performance. Students who ate a healthy, balanced diet scored 13% higher than those who relied on free or reduced lunches.
