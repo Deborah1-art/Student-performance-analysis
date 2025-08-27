@@ -52,3 +52,10 @@ Overall average of subjects
 
 
 <img width="419" height="310" alt="Average score of students by lunch" src="https://github.com/user-attachments/assets/013d5ea1-7aff-4752-8e62-9cab04380afa" />
+
+
+
+----
+##Insights
+1. based on overall average in each subjects, Females did better in reading and writing while Males did sightly better in Maths by 1.5% over females
+2.  
