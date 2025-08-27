@@ -48,5 +48,7 @@ Average score by race/ethnicity
 
 
 
+
 Average scores of students by parental level of education  
-<img width="497" height="344" alt="average score by parental level of education" src="https://github.com/user-attachments/assets/1f609679-357a-493f-b337-60c9fb3d8e3f" />
+
+ <img width="497" height="344" alt="average score by parental level of education" src="https://github.com/user-attachments/assets/1f609679-357a-493f-b337-60c9fb3d8e3f" />
